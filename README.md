@@ -1,3 +1,3 @@
 # Java Learning Repository
 
-Java codes from my teacher's lessons..
+Java codes from my teacher's lessons.
